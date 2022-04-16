@@ -12,4 +12,7 @@ println!("Updating!");
 }
 ```
 # Installation
-`cargo install UpdateFunctions`
+In `cargo.toml`
+```
+UpdateFunctions = "0.1.3"
+```
