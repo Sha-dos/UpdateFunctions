@@ -1,9 +1,10 @@
 [package]
 name = "UpdateFunctions"
-version = "0.1.4"
+version = "0.1.6"
 edition = "2021"
 license = "MIT"
 description = "A small package for calling a function at a desired interval"
+documentation = "https://docs.rs/UpdateFunctions/0.1.6/UpdateFunctions/"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
